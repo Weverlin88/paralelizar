@@ -1,0 +1,1 @@
+EXPRESSION#>ant -f C:\\Users\\wever\\OneDrive\\Documentos\\NetBeansProjects\\CadastroServer -Dnb.internal.action.name=rebuild clean jar
